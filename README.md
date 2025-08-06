@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I am deepika! 
 
-<!--
-**deepikavulli21-png/deepikavulli21-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First year CSE student at SRM university.
+Passionate about AI, Machine Learning, and building cool projects. 
+Python lover |Git beginner | ML Explorer
+Currently working on basic ML models and personal web apps
 
-Here are some ideas to get you started:
+## My skills
+-programming: Python, c, Java (basic)
+-Tools: Git, GItHub, VS code, Jupyter
+-Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY Projects
+-[Diabetes Prediction using ML](#)
+-[Simple ChatBot using Python](#)
+-[movie recommendation System](#)
+
+## Connect with Me!
+- E-mail: deepikavulli21@gmail.com
