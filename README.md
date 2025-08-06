@@ -7,7 +7,7 @@ Currently working on basic ML models and personal web apps
 
 ## My skills
 -programming: Python, c, Java (basic)
--Tools: Git, GItHub, VS code, Jupyter
+-Tools: Git, GitHub, VS code, Jupyter
 -Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 
 ## MY Projects
