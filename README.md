@@ -1,4 +1,4 @@
-## Hi there 👋 I am deepika! 
+## Hi there 👋 I am Deepika! 
 
 First year CSE student at SRM university.
 Passionate about AI, Machine Learning, and building cool projects. 
